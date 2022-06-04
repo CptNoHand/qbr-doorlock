@@ -9,7 +9,7 @@ Config.DoorList = {
 	--
 
 	{
-		authorizedJobs = { 'police' },
+		authorizedJobs = { 'lawman' },
 		doorid = 1988748538,
 		objCoords  = vector3(-276.04, 802.73, 118.41),
 		textCoords  = vector3(-275.02, 802.84, 119.43),
@@ -18,7 +18,7 @@ Config.DoorList = {
 		distance = 3.0
 	},
 	{
-		authorizedJobs = { 'police' },
+		authorizedJobs = { 'lawman' },
 		doorid = 395506985,
 		objCoords  = vector3(-275.85, 812.02, 118.41),
 		textCoords  = vector3(-277.06, 811.83, 119.38),
@@ -27,7 +27,7 @@ Config.DoorList = {
 		distance = 3.0
 	},
 	{
-		authorizedJobs = { 'police' },
+		authorizedJobs = { 'lawman' },
 		doorid = 1508776842,
 		objCoords  = vector3(-270.77, 810.02, 118.39),
 		textCoords  = vector3(-270.77, 810.02, 118.39),
@@ -38,7 +38,7 @@ Config.DoorList = {
 
 	--cell area
 	{
-		authorizedJobs = { 'police' },
+		authorizedJobs = { 'lawman' },
 		doorid = 535323366,
 		objCoords  = vector3(-275.03, 809.27, 118.36),
 		textCoords  = vector3(-274.89, 808.03, 119.39),
@@ -48,7 +48,7 @@ Config.DoorList = {
 	},
 	--cells
 	{
-		authorizedJobs = { 'police' },
+		authorizedJobs = { 'lawman' },
 		doorid = 295355979,
 		objCoords  = vector3(-273.47, 809.96, 118.36),
 		textCoords  = vector3(-272.23, 810.1, 119.39),
@@ -57,7 +57,7 @@ Config.DoorList = {
 		distance = 1.5
 	},
 	{
-		authorizedJobs = { 'police' },
+		authorizedJobs = { 'lawman' },
 		doorid = 193903155,
 		objCoords  = vector3(-272.06, 808.25, 118.36),
 		textCoords  = vector3(-273.3, 808.12, 119.39),
@@ -71,7 +71,7 @@ Config.DoorList = {
 	--
 	{
 		textCoords = vector3(-308.11, 779.91, 118.96),
-		authorizedJobs = { 'police' },
+		authorizedJobs = { 'lawman' },
 		locked = false,
 		distance = 2.5,
 		doors = {
@@ -90,7 +90,7 @@ Config.DoorList = {
 
 	--main doors
 	{
-		authorizedJobs = { 'police' },
+		authorizedJobs = { 'lawman' },
 		doorid = 2343746133,
 		objCoords  = vector3(-301.94, 771.75, 117.72),
 		textCoords  = vector3(-303.02, 771.60, 118.47),
@@ -99,7 +99,7 @@ Config.DoorList = {
 		distance = 3.0
 	},
 	{
-		authorizedJobs = { 'police' },
+		authorizedJobs = { 'lawman' },
 		doorid = 1340831050,
 		objCoords  = vector3(-311.75, 774.67, 117.72),
 		textCoords  = vector3(-310.48, 774.92, 118.70),
@@ -109,7 +109,7 @@ Config.DoorList = {
 	},
 
 	{
-		authorizedJobs = { 'police' },
+		authorizedJobs = { 'lawman' },
 		doorid = 3718620420,
 		objCoords  = vector3(-311.06, 770.12, 117.7),
 		textCoords  = vector3(-309.97, 770.20, 118.70),
@@ -119,7 +119,7 @@ Config.DoorList = {
 	},
 
 	{
-		authorizedJobs = { 'police' },
+		authorizedJobs = { 'lawman' },
 		doorid = 334467483,
 		objCoords  = vector3(-302.93, 767.6, 117.69),
 		textCoords  = vector3(-302.97, 768.61, 118.70),
@@ -131,7 +131,7 @@ Config.DoorList = {
 	-- --vault
 
 	{
-		authorizedJobs = { 'police' },
+		authorizedJobs = { 'lawman' },
 		doorid = 576950805,
 		objCoords  = vector3(-307.76, 766.34, 117.7),
 		textCoords  = vector3(-306.60, 766.65, 118.70),
@@ -141,7 +141,7 @@ Config.DoorList = {
 	},
 	-- --back door
 	{
-		authorizedJobs = { 'police' },
+		authorizedJobs = { 'lawman' },
 		doorid = 2307914732,
 		objCoords  = vector3(-301.51, 762.98, 117.73),
 		textCoords  = vector3(-300.59, 763.20, 118.70),
@@ -155,7 +155,7 @@ Config.DoorList = {
 	-- --
 
 	{
-		authorizedJobs = { 'police' },
+		authorizedJobs = { 'lawman' },
 		doorid = 349074475,
 		objCoords  = vector3(1359.71, -1305.97, 76.76),
 		textCoords  = vector3(1358.42, -1305.71, 77.72),
@@ -164,7 +164,7 @@ Config.DoorList = {
 		distance = 3.0
 	},
 	{
-		authorizedJobs = { 'police' },
+		authorizedJobs = { 'lawman' },
 		doorid = 1614494720,
 		objCoords  = vector3(1359.12, -1297.56, 76.78),
 		textCoords  = vector3(1358.51, -1298.95,77.78),
@@ -179,7 +179,7 @@ Config.DoorList = {
 
 	{
 		textCoords = vector3(-757.27, -1269.34, 44.04),
-		authorizedJobs = { 'police' },
+		authorizedJobs = { 'lawman' },
 		locked = false,
 		distance = 2.5,
 		doors = {
